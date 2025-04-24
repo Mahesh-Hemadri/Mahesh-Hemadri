@@ -13,6 +13,7 @@
 - 🫁 **Pneumonia Detection** – Deep learning project using CNNs to detect pneumonia from chest X-ray images with an accuracy of 91%.
 - 🎵 **Music Recommender System** – Built using content-based and collaborative filtering to provide personalized music suggestions.
 - 🩸 **Blood Bank & Donor Management System** – A full-stack platform to manage donors, requests, and inventory efficiently.
+- IPL Analytics Dashboard** - "An interactive Power BI dashboard providing insights into IPL performance trends, top players, and team statistics from 2008 to 2024."
 
 Thanks for visiting my profile! Let’s connect and build something impactful together 🙌
 
