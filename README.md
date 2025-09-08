@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Mahesh Hemadri!
 
 - 👀 I’m passionate about Artificial Intelligence, Machine Learning, Android development, and solving real-world problems through technology.  
-- 🌱 Currently exploring advanced Deep Learning, Data Analytics, and NLP.  
+- 🌱 Currently exploring Gen AI,Advanced Deep Learning, Data Analytics, and NLP.  
 - 💞️ Open to collaborating on innovative ML/DL projects, Android apps, and socially impactful tech.  
 - 📫 Reach me at: maheshhemadri02@gmail.com  
 - 😄 Pronouns: He/Him  
