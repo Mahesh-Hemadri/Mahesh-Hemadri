@@ -1,19 +1,118 @@
-### 👋 Hi there, I’m Mahesh Hemadri!
+# 👋 Hi there, I'm Mahesh Hemadri!
 
-- 👀 I’m passionate about Artificial Intelligence, Machine Learning, Android development, and solving real-world problems through technology.  
-- 🌱 Currently exploring Gen AI,Advanced Deep Learning, Data Analytics, and NLP.  
-- 💞️ Open to collaborating on innovative ML/DL projects, Android apps, and socially impactful tech.  
-- 📫 Reach me at: maheshhemadri02@gmail.com  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I built an app to make the world a safer place — and a model that can diagnose pneumonia from X-rays!
+## 🚀 About Me
 
-### Featured Projects:
-- 🛡️ Luna – A women’s safety Android app with voice and gesture-based emergency activation, real-time location sharing, quick-access alerts and the ability to function even in low network conditions.
-- 🫁 Pneumonia Detection – Deep learning project using CNNs to detect pneumonia from chest X-ray images with an accuracy of 91%.
-- 🎵 Music Recommender System – Built using content-based and collaborative filtering to provide personalized music suggestions.
-- 🩸 Blood Bank & Donor Management System – A full-stack platform to manage donors, requests, and inventory efficiently.
-- 📊 IPL Analytics Dashboard – An interactive Power BI dashboard providing insights into IPL performance trends, top players, and team statistics from 2008 to 2024.
-- 📰 Veracity Vigilance: Fake News Detection – Machine learning project using TF-IDF and Logistic Regression to classify news as real or fake, featuring a Streamlit web app with confidence scoring and explainability.
-- 📈 Automated Stock Data Pipeline – Developed a fully containerized (Docker) data pipeline using Apache Airflow to automatically fetch daily stock market data from an API, process it, and store it in PostgreSQL. Features robust error handling with automated email alerts on failure.
+I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems that solve real-world business problems. I enjoy working across the entire AI lifecycle—from data processing and model development to MLOps, deployment, and Generative AI applications.
 
-Thanks for visiting my profile! Let’s connect and build something impactful together 🙌
+* 👀 Passionate about **Artificial Intelligence, Machine Learning, Generative AI, MLOps, Data Analytics, and AI Automation**
+* 🌱 Currently learning **LLMs, AI Agents, RAG, Advanced Deep Learning, MLOps, and AI Engineering**
+* 💞️ Open to collaborating on **AI/ML, Generative AI, NLP, Computer Vision, MLOps, and automation projects**
+* 📫 Reach me at: **[maheshhemadri02@gmail.com](mailto:maheshhemadri02@gmail.com)**
+* ⚡ I enjoy building AI applications that automate business workflows and improve decision-making.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI BOQ Generator
+
+An AI-powered quotation generation platform that automates the Bill of Quantities (BOQ) creation process using Large Language Models and semantic search.
+
+**Tech Stack:** Python, Streamlit, Google Gemini, Vector Search, FAISS, Pandas, OpenPyXL
+
+### Features
+
+* 📄 Upload and index product catalogues into a searchable knowledge base
+* 🧠 AI-powered requirement extraction from natural language
+* 🔍 Semantic product search using vector embeddings
+* 📊 Intelligent product recommendations
+* 📑 Automated Excel quotation generation
+* ⚡ Interactive Streamlit web application
+
+---
+
+## ⚙️ End-to-End MLOps Pipeline
+
+A production-ready machine learning pipeline demonstrating modern MLOps practices and reproducible workflows.
+
+**Tech Stack:** Python, Docker, DVC, MLflow, GitHub Actions
+
+### Features
+
+* 📦 Data versioning with DVC
+* 📈 Experiment tracking using MLflow
+* 🐳 Dockerized application
+* 🔁 Reproducible ML pipelines
+* 🚀 CI/CD-ready project structure
+* 📊 End-to-end machine learning workflow
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+* Python
+* SQL
+
+### AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Large Language Models (LLMs)
+* Natural Language Processing (NLP)
+* Computer Vision
+* Retrieval-Augmented Generation (RAG)
+
+### Frameworks & Libraries
+
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Pandas
+* NumPy
+* Streamlit
+* FAISS
+
+### MLOps & DevOps
+
+* Docker
+* MLflow
+* DVC
+* Git
+* GitHub Actions
+
+### Data & Visualization
+
+* Power BI
+* Excel
+* Matplotlib
+
+---
+
+# 💼 Other Experience
+
+Beyond the repositories available on GitHub, I've also worked on:
+
+* 🤖 Enterprise AI agents using Microsoft Copilot Studio
+* ⚡ AI workflow automation with Microsoft Power Platform
+* 📊 Interactive business dashboards using Power BI
+* 📈 Predictive analytics and inventory intelligence
+* 📱 Android application development
+* 🧠 Computer Vision and Deep Learning projects
+* 💬 NLP-based intelligent applications
+
+---
+
+# 🎯 Current Focus
+
+* Building production-ready AI applications
+* Generative AI & LLM-powered solutions
+* AI Agents & RAG systems
+* MLOps and scalable ML deployment
+* End-to-end AI product development
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on exciting AI and Machine Learning projects.
