@@ -1,118 +1,172 @@
-# 👋 Hi there, I'm Mahesh Hemadri!
+# 👋 Hi there, I'm Mahesh V H!
 
 ## 🚀 About Me
 
-I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems that solve real-world business problems. I enjoy working across the entire AI lifecycle—from data processing and model development to MLOps, deployment, and Generative AI applications.
+I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world business problems. I enjoy designing production-ready AI systems across the entire lifecycle—from machine learning and MLOps to multi-agent AI frameworks and Generative AI applications.
 
-* 👀 Passionate about **Artificial Intelligence, Machine Learning, Generative AI, MLOps, Data Analytics, and AI Automation**
-* 🌱 Currently learning **LLMs, AI Agents, RAG, Advanced Deep Learning, MLOps, and AI Engineering**
-* 💞️ Open to collaborating on **AI/ML, Generative AI, NLP, Computer Vision, MLOps, and automation projects**
-* 📫 Reach me at: **[maheshhemadri02@gmail.com](mailto:maheshhemadri02@gmail.com)**
-* ⚡ I enjoy building AI applications that automate business workflows and improve decision-making.
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI BOQ Generator
-
-An AI-powered quotation generation platform that automates the Bill of Quantities (BOQ) creation process using Large Language Models and semantic search.
-
-**Tech Stack:** Python, Streamlit, Google Gemini, Vector Search, FAISS, Pandas, OpenPyXL
-
-### Features
-
-* 📄 Upload and index product catalogues into a searchable knowledge base
-* 🧠 AI-powered requirement extraction from natural language
-* 🔍 Semantic product search using vector embeddings
-* 📊 Intelligent product recommendations
-* 📑 Automated Excel quotation generation
-* ⚡ Interactive Streamlit web application
+- 👀 Passionate about Artificial Intelligence, Machine Learning, Generative AI, AI Agents, MLOps, Data Analytics, and AI Automation
+- 🌱 Currently building **Conclave**, a provider-agnostic multi-agent AI framework, while exploring LLM Engineering, Agentic AI, RAG, and scalable AI systems
+- 💞️ Open to collaborating on AI/ML, Generative AI, Agentic AI, NLP, MLOps, and automation projects
+- 📫 Reach me at: **maheshhemadri02@gmail.com**
+- ⚡ I enjoy transforming AI ideas into production-ready software.
 
 ---
 
-## ⚙️ End-to-End MLOps Pipeline
+# 🚀 Featured Project
 
-A production-ready machine learning pipeline demonstrating modern MLOps practices and reproducible workflows.
+# 🏛️ Conclave – Multi-Agent AI Framework *(Flagship Project)*
 
-**Tech Stack:** Python, Docker, DVC, MLflow, GitHub Actions
+**Conclave** is a modular, provider-agnostic AI framework for building intelligent multi-agent applications.
+
+Unlike traditional AI applications built around a single LLM, Conclave enables multiple specialized AI agents to collaborate, use external tools, and produce high-quality reasoning for complex tasks.
+
+### ✨ Current Features
+
+- 🧠 AI Planner for dynamic expert selection
+- 👨‍💻 Specialized AI agents (Architect, Backend, Security, Judge)
+- ⚙️ Modular Execution Engine
+- 🔄 Pluggable Runner Architecture
+- 🧩 Provider Abstraction Layer
+- 🤖 Gemini Provider
+- 📝 External Prompt Management
+- 🛠️ Tool Registry & Tool Executor
+- 📊 Execution History & Observability
+- 🔌 Extensible Plugin Architecture
+
+### 🚧 Currently Building
+
+- Native Tool Calling
+- Multi-provider Support (Gemini, OpenAI, Claude, Ollama)
+- Memory Layer
+- Parallel Agent Execution
+- LangGraph Integration
+- Streamlit UI
+- Plugin SDK
+
+### Tech Stack
+
+Python • Google Gemini • Multi-Agent Systems • Prompt Engineering • OOP • Design Patterns • LLM Engineering • AI Framework Development
+
+---
+
+# 🤖 AI BOQ Generator
+
+An AI-powered quotation generation platform that automates Bill of Quantities (BOQ) creation using Large Language Models and semantic search.
+
+### Tech Stack
+
+Python • Streamlit • Google Gemini • FAISS • Pandas • OpenPyXL
 
 ### Features
 
-* 📦 Data versioning with DVC
-* 📈 Experiment tracking using MLflow
-* 🐳 Dockerized application
-* 🔁 Reproducible ML pipelines
-* 🚀 CI/CD-ready project structure
-* 📊 End-to-end machine learning workflow
+- 📄 Upload and index product catalogues
+- 🧠 AI-powered requirement extraction
+- 🔍 Semantic product search
+- 📊 Intelligent recommendations
+- 📑 Automated quotation generation
+- ⚡ Interactive Streamlit interface
+
+---
+
+# ⚙️ End-to-End MLOps Pipeline
+
+A production-ready machine learning pipeline demonstrating modern MLOps practices.
+
+### Tech Stack
+
+Python • Docker • DVC • MLflow • GitHub Actions
+
+### Features
+
+- 📦 Data Versioning
+- 📈 Experiment Tracking
+- 🐳 Dockerized Deployment
+- 🔁 Reproducible Pipelines
+- 🚀 CI/CD Ready
+- 📊 End-to-End ML Workflow
 
 ---
 
 # 🛠️ Technical Skills
 
-### Languages
+## Languages
 
-* Python
-* SQL
+- Python
+- SQL
 
-### AI & Machine Learning
+## Artificial Intelligence
 
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models (LLMs)
-* Natural Language Processing (NLP)
-* Computer Vision
-* Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- AI Agents
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing
+- Computer Vision
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* Pandas
-* NumPy
-* Streamlit
-* FAISS
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Streamlit
+- Pandas
+- NumPy
+- FAISS
 
-### MLOps & DevOps
+## MLOps & DevOps
 
-* Docker
-* MLflow
-* DVC
-* Git
-* GitHub Actions
+- Docker
+- MLflow
+- DVC
+- Git
+- GitHub Actions
 
-### Data & Visualization
+## Data & Analytics
 
-* Power BI
-* Excel
-* Matplotlib
+- Power BI
+- Excel
+- Matplotlib
 
 ---
 
-# 💼 Other Experience
+# 💼 Professional Experience
 
-Beyond the repositories available on GitHub, I've also worked on:
+Alongside my public GitHub repositories, I've also built enterprise AI solutions including:
 
-* 🤖 Enterprise AI agents using Microsoft Copilot Studio
-* ⚡ AI workflow automation with Microsoft Power Platform
-* 📊 Interactive business dashboards using Power BI
-* 📈 Predictive analytics and inventory intelligence
-* 📱 Android application development
-* 🧠 Computer Vision and Deep Learning projects
-* 💬 NLP-based intelligent applications
+- 🤖 Microsoft Copilot Studio AI Agents
+- ⚡ Microsoft Power Platform Automation
+- 📊 Enterprise Power BI Dashboards
+- 📈 AI-powered Inventory Intelligence
+- 📬 Intelligent Email Analytics Systems
+- 🧠 AI Document Processing Solutions
 
 ---
 
 # 🎯 Current Focus
 
-* Building production-ready AI applications
-* Generative AI & LLM-powered solutions
-* AI Agents & RAG systems
-* MLOps and scalable ML deployment
-* End-to-end AI product development
+I'm currently focused on building a reusable AI engineering ecosystem.
+
+## Immediate Goals
+
+- 🚀 Complete Conclave v1.0
+- 🤖 Build multiple AI applications powered by Conclave
+- 🧠 Advance Agentic AI & LLM Engineering
+- ⚙️ Production-grade MLOps & AI Infrastructure
+- ☁️ Cloud-native AI Deployment
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on exciting AI and Machine Learning projects.
+# 📌 Vision
+
+> **Build once. Deploy everywhere.**
+
+Conclave is designed to become the foundation for multiple AI applications—including enterprise copilots, automation platforms, forecasting systems, research assistants, and intelligent business workflows.
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you're interested in AI Engineering, Multi-Agent Systems, LLMs, or building production-ready AI software, feel free to connect or collaborate.
