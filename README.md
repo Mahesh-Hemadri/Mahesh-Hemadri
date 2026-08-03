@@ -14,7 +14,7 @@ I'm an AI/ML Engineer passionate about building intelligent systems that solve r
 
 # 🚀 Featured Project
 
-# 🏛️ Conclave – Multi-Agent AI Framework *(Flagship Project)*
+# 🏛️ Conclave – Multi-Agent AI Framework 
 
 **Conclave** is a modular, provider-agnostic AI framework for building intelligent multi-agent applications.
 
