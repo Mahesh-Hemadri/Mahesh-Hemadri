@@ -4,8 +4,8 @@
 
 I build practical AI systems that combine LLMs, retrieval, intelligent agents, and machine learning with reliable backend and application engineering.
 
-📫 **[Email] (mailto:maheshhemadri02@gmail.com)** •
-💼 **[LinkedIn] (https://www.linkedin.com/in/mahesh-v-h-0a2579231/)** •
+📫 **[Email] (mailto:maheshhemadri02@gmail.com)** 
+💼 **[LinkedIn] (https://www.linkedin.com/in/mahesh-v-h-0a2579231/)** 
 🐙 **[GitHub] (https://github.com/Mahesh-Hemadri)**
 
 ---
