@@ -1,172 +1,95 @@
-# 👋 Hi there, I'm Mahesh V H!
+# 👋 Hi, I'm Mahesh V H
 
-## 🚀 About Me
+**AI/ML Engineer | GenAI | RAG | Agentic AI | MLOps**
 
-I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world business problems. I enjoy designing production-ready AI systems across the entire lifecycle—from machine learning and MLOps to multi-agent AI frameworks and Generative AI applications.
+I build practical AI systems that combine LLMs, retrieval, intelligent agents, and machine learning with reliable backend and application engineering.
 
-- 👀 Passionate about Artificial Intelligence, Machine Learning, Generative AI, AI Agents, MLOps, Data Analytics, and AI Automation
-- 🌱 Currently building **Conclave**, a provider-agnostic multi-agent AI framework, while exploring LLM Engineering, Agentic AI, RAG, and scalable AI systems
-- 💞️ Open to collaborating on AI/ML, Generative AI, Agentic AI, NLP, MLOps, and automation projects
-- 📫 Reach me at: **maheshhemadri02@gmail.com**
-- ⚡ I enjoy transforming AI ideas into production-ready software.
+📫 **[Email] (mailto:maheshhemadri02@gmail.com)** •
+💼 **[LinkedIn] (https://www.linkedin.com/in/mahesh-v-h-0a2579231/)** •
+🐙 **[GitHub] (https://github.com/Mahesh-Hemadri)**
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Projects
 
-# 🏛️ Conclave – Multi-Agent AI Framework 
+### 🎨 VisualAI — Interactive AI/ML Learning Platform
 
-**Conclave** is a modular, provider-agnostic AI framework for building intelligent multi-agent applications.
+An interactive learning platform that combines **RAG + LLMs + deterministic visualization** to explain AI/ML concepts visually.
 
-Unlike traditional AI applications built around a single LLM, Conclave enables multiple specialized AI agents to collaborate, use external tools, and produce high-quality reasoning for complex tasks.
+**Highlights**
+- RAG with BGE embeddings + FAISS
+- Cross-encoder reranking
+- Grounded LLM generation with source attribution
+- Retrieval evaluation: Recall@3 = 1.00, MRR = 0.833
+- Next.js + FastAPI architecture
 
-### ✨ Current Features
+**Tech:** `Next.js` `React` `TypeScript` `Python` `FastAPI` `FAISS` `RAG` `LLMs`
 
-- 🧠 AI Planner for dynamic expert selection
-- 👨‍💻 Specialized AI agents (Architect, Backend, Security, Judge)
-- ⚙️ Modular Execution Engine
-- 🔄 Pluggable Runner Architecture
-- 🧩 Provider Abstraction Layer
-- 🤖 Gemini Provider
-- 📝 External Prompt Management
-- 🛠️ Tool Registry & Tool Executor
-- 📊 Execution History & Observability
-- 🔌 Extensible Plugin Architecture
-
-### 🚧 Currently Building
-
-- Native Tool Calling
-- Multi-provider Support (Gemini, OpenAI, Claude, Ollama)
-- Memory Layer
-- Parallel Agent Execution
-- LangGraph Integration
-- Streamlit UI
-- Plugin SDK
-
-### Tech Stack
-
-Python • Google Gemini • Multi-Agent Systems • Prompt Engineering • OOP • Design Patterns • LLM Engineering • AI Framework Development
+🔗 [View VisualAI →](https://github.com/Mahesh-Hemadri/visual-ai)
 
 ---
 
-# 🤖 AI BOQ Generator
+### 🏛️ Conclave — Multi-Agent AI Framework
 
-An AI-powered quotation generation platform that automates Bill of Quantities (BOQ) creation using Large Language Models and semantic search.
+A modular, provider-agnostic framework for building applications with specialized AI agents, tools, and structured execution workflows.
 
-### Tech Stack
+**Highlights**
+- AI planner and specialized agents
+- Provider abstraction
+- Tool registry and execution
+- Execution history and observability
 
-Python • Streamlit • Google Gemini • FAISS • Pandas • OpenPyXL
+**Tech:** `Python` `Gemini` `Multi-Agent Systems` `LLM Engineering`
 
-### Features
-
-- 📄 Upload and index product catalogues
-- 🧠 AI-powered requirement extraction
-- 🔍 Semantic product search
-- 📊 Intelligent recommendations
-- 📑 Automated quotation generation
-- ⚡ Interactive Streamlit interface
+🔗 [View Conclave →](https://github.com/Mahesh-Hemadri/conclave)
 
 ---
 
-# ⚙️ End-to-End MLOps Pipeline
+### 🤖 AI BOQ Generator
 
-A production-ready machine learning pipeline demonstrating modern MLOps practices.
+AI-powered quotation generation using product catalogue retrieval, requirement extraction, semantic search, and automated quotation generation.
 
-### Tech Stack
-
-Python • Docker • DVC • MLflow • GitHub Actions
-
-### Features
-
-- 📦 Data Versioning
-- 📈 Experiment Tracking
-- 🐳 Dockerized Deployment
-- 🔁 Reproducible Pipelines
-- 🚀 CI/CD Ready
-- 📊 End-to-End ML Workflow
+**Tech:** `Python` `Streamlit` `Gemini` `FAISS` `Pandas`
 
 ---
 
-# 🛠️ Technical Skills
+### ⚙️ End-to-End MLOps Pipeline
 
-## Languages
+Machine learning pipeline demonstrating reproducible training, versioning, deployment, and CI/CD practices.
 
-- Python
-- SQL
-
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- AI Agents
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Computer Vision
-
-## Frameworks & Libraries
-
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Streamlit
-- Pandas
-- NumPy
-- FAISS
-
-## MLOps & DevOps
-
-- Docker
-- MLflow
-- DVC
-- Git
-- GitHub Actions
-
-## Data & Analytics
-
-- Power BI
-- Excel
-- Matplotlib
+**Tech:** `Python` `Docker` `DVC` `MLflow` `GitHub Actions`
 
 ---
 
-# 💼 Professional Experience
+## 🛠️ Skills
 
-Alongside my public GitHub repositories, I've also built enterprise AI solutions including:
+**AI/ML:**  
+Machine Learning • Deep Learning • Generative AI • LLMs • RAG • NLP • Agentic AI • Multi-Agent Systems
 
-- 🤖 Microsoft Copilot Studio AI Agents
-- ⚡ Microsoft Power Platform Automation
-- 📊 Enterprise Power BI Dashboards
-- 📈 AI-powered Inventory Intelligence
-- 📬 Intelligent Email Analytics Systems
-- 🧠 AI Document Processing Solutions
+**LLM Engineering:**  
+Embeddings • Vector Search • Semantic Search • Reranking • Prompt Engineering • LLM Evaluation
 
----
+**Development:**  
+Python • SQL • TypeScript • Next.js • React • FastAPI • REST APIs
 
-# 🎯 Current Focus
+**MLOps:**  
+Docker • MLflow • DVC • Git • GitHub Actions
 
-I'm currently focused on building a reusable AI engineering ecosystem.
-
-## Immediate Goals
-
-- 🚀 Complete Conclave v1.0
-- 🤖 Build multiple AI applications powered by Conclave
-- 🧠 Advance Agentic AI & LLM Engineering
-- ⚙️ Production-grade MLOps & AI Infrastructure
-- ☁️ Cloud-native AI Deployment
+**Data & Analytics:**  
+Pandas • NumPy • Power BI • Excel • Matplotlib
 
 ---
 
-# 📌 Vision
 
-> **Build once. Deploy everywhere.**
 
-Conclave is designed to become the foundation for multiple AI applications—including enterprise copilots, automation platforms, forecasting systems, research assistants, and intelligent business workflows.
+## 🎯 Currently Exploring
+
+- Advanced RAG systems
+- Agentic AI & multi-agent architectures
+- LLM engineering and evaluation
+- MLOps & AI infrastructure
+- Cloud-native AI deployment
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
-If you're interested in AI Engineering, Multi-Agent Systems, LLMs, or building production-ready AI software, feel free to connect or collaborate.
+⭐ **Building practical AI systems that are useful, explainable, and reliable.**
